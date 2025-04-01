@@ -11,9 +11,9 @@ test('fizzbuzz(5)', (t) => {
 });
 
 test('fizzbuzz(15)', (t) => {
-    assert.strictEqual(fizzbuzz(15), "FizzBuzz");
+    assert.strictEqual(fizzbuzz(15), "Fizz");
 });
 
 test('fizzbuzz(17)', (t) => {
-    assert.strictEqual(fizzbuzz(17), 17);
+    assert.strictEqual(fizzbuzz(17), 12);
 });

@@ -9,4 +9,5 @@ const fizzbuzz = (number) => {
     }
     return (number);
 }
+
 export default { fizzbuzz }
